@@ -48,17 +48,15 @@ Attack mitigation using Deep Q-Network with a GenAI assistant for Cypher-based t
 RAG-based app for real-time question answering across multiple PDFs using vector search and LLM chaining.
 
 ---
-
 ### 🛠️ Languages & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,postgresql,mongodb,docker,github,git,linux,vscode,postman,spring,flask,streamlit,canva"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,postgresql,mongodb,docker,github,git,linux,vscode,postman,spring,flask,streamlit,canva,langchain"/>
 <img src="https://cdn.simpleicons.org/mlflow/0194E2" width="45" height="45"/>
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="45" height="45"/>
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="45" height="45"/>
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="45" height="45"/>
+<img src="https://img.icons8.com/fluency/48/power-bi.png" width="45" height="45"/>
 <img src="https://cdn.simpleicons.org/eclipseide/2C2255" width="45" height="45"/>
 </p>
-
 ---
 
 ### 🌐 Connect with Me
