@@ -2,7 +2,7 @@
 <h3 align="center">A passionate ML & Data Science Engineer from Mangalore, India 🇮🇳</h3>
 <p align="center">
   📧 <a href="mailto:surajgrao0203@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/yourhandle">LinkedIn</a> •
+  <a href="https://linkedin.com/in/suraj-g-rao/">LinkedIn</a> •
   <a href="https://github.com/Suraj-G-Rao">GitHub</a> •
   <a href="https://www.instagram.com/_suraj.rao_">Instagram</a>
 </p>
@@ -26,7 +26,7 @@
 - Trained an **XGBoost + Isolation Forest** ensemble using behavioural, device, and network features
 - Deployed a **FastAPI** inference service scoring transactions → ALLOW / CHALLENGE / BLOCK in under 50ms
 
-**Research Intern — NITK Surathkal** *(Dec 2024 – Feb 2025)*
+**Research Intern — NITK Surathkal** *(Dec 2024 – Feb 2025, Mangaluru)*
 - Appointed as an intern under the **ISEA Phase-III** focusing on cryptanalysis techniques using neural networks.
 - Implemented the **Data Encryption Standard (DES)** algorithm to understand data encryption and decryption processes.
 - Trained a **Bidirectional LSTM** to predict plaintext patterns from DES-encrypted data without key access
@@ -51,7 +51,12 @@ RAG-based app for real-time question answering across multiple PDFs using vector
 
 ### 🛠️ Languages & Tools
 
-[![](https://skillicons.dev/icons?i=python,cpp,java,fastapi,docker,mysql,postgresql,git,github,Vscode,powerBI,GoogleSheets)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,cpp,c,java,mysql,postgresql,docker,github,git,linux)](https://skillicons.dev)
+
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![DagsHub](https://img.shields.io/badge/DagsHub-F04D26?style=for-the-badge&logo=dagshub&logoColor=white)
 
 ---
 
