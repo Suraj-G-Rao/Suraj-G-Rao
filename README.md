@@ -46,6 +46,8 @@ Attack mitigation using Deep Q-Network with a GenAI assistant for Cypher-based t
 **📄 Multi-Document Q&A System** *(LangChain, FAISS, Groq, Gemini, Streamlit)*
 
 RAG-based app for real-time question answering across multiple PDFs using vector search and LLM chaining.
+
+&nbsp;
 ---
 
 ### 🛠️ Languages & Tools
