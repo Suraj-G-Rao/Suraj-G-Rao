@@ -9,15 +9,13 @@
 </p>
 
 ---
-
 ### 🧠 About Me
 
-🎓 Engineering student at **The National Institute of Engineering, Mysuru (CGPA: 9.46/10)**
-💻 Skilled in **Python, Machine Learning, Deep Learning, and GenAI**
-🚀 Passionate about **building intelligent systems and solving real-world problems with AI**
-📍 Based in **Mangalore, Karnataka**
+🎓 Engineering student at **The National Institute of Engineering, Mysuru (CGPA: 9.46/10)**<br>
+💻 Skilled in **Python, Machine Learning, Deep Learning, and GenAI**<br>
+🚀 Passionate about **building intelligent systems and solving real-world problems with AI**<br>
+📍 Based in **Mangalore, Karnataka**<br>
 🏆 **1st place** at NITK Surathkal Security Bootcamp & **State-level winner** at SAP Hackathon 2025
-
 ---
 
 ### 💼 Experience
@@ -28,7 +26,8 @@
 - Deployed a **FastAPI** inference service scoring transactions → ALLOW / CHALLENGE / BLOCK in under 50ms
 
 **Research Intern — NITK Surathkal** *(Dec 2024 – Feb 2025)*
-- Worked on **ISEA Phase-III** cryptanalysis using neural networks
+- Appointed as an intern under the “ISEA Phase-III” focusing on cryptanalysis techniques using neural networks.
+- Implemented the Data Encryption Standard (DES) algorithm to understand data encryption and decryption processes.
 - Trained a **Bidirectional LSTM** to predict plaintext patterns from DES-encrypted data without key access
 
 ---
