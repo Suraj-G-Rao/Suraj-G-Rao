@@ -1,21 +1,22 @@
 <h1 align="center">Hi 👋, I'm Suraj G Rao</h1>
 <h3 align="center">A passionate ML & Data Science Engineer from Mangalore, India 🇮🇳</h3>
-
 <p align="center">
   📧 <a href="mailto:surajgrao0203@gmail.com">Email</a> •
   <a href="https://linkedin.com/in/yourhandle">LinkedIn</a> •
   <a href="https://github.com/Suraj-G-Rao">GitHub</a> •
-  <a href="https://instagram.com/yourhandle">Instagram</a>
+  <a href="https://www.instagram.com/_suraj.rao_">Instagram</a>
 </p>
 
 ---
+
 ### 🧠 About Me
 
-🎓 Engineering student at **The National Institute of Engineering, Mysuru (CGPA: 9.46/10)**<br>
-💻 Skilled in **Python, Machine Learning, Deep Learning, and GenAI**<br>
-🚀 Passionate about **building intelligent systems and solving real-world problems with AI**<br>
+🎓 B.E student at **NIE Mysuru** (CGPA: 9.46/10)<br>
+💻 Skilled in **Python, ML, Deep Learning, and GenAI**<br>
+🚀 Passionate about **building intelligent real-world AI systems**<br>
 📍 Based in **Mangalore, Karnataka**<br>
-🏆 **1st place** at NITK Surathkal Security Bootcamp & **State-level winner** at SAP Hackathon 2025
+🏆 **1st @ NITK Security Bootcamp** · **State winner @ SAP Hackathon 2025**
+
 ---
 
 ### 💼 Experience
@@ -26,7 +27,7 @@
 - Deployed a **FastAPI** inference service scoring transactions → ALLOW / CHALLENGE / BLOCK in under 50ms
 
 **Research Intern — NITK Surathkal** *(Dec 2024 – Feb 2025)*
-- Appointed as an intern under the “ISEA Phase-III” focusing on cryptanalysis techniques using neural networks.
+- Appointed as an intern under the "ISEA Phase-III" focusing on cryptanalysis techniques using neural networks.
 - Implemented the Data Encryption Standard (DES) algorithm to understand data encryption and decryption processes.
 - Trained a **Bidirectional LSTM** to predict plaintext patterns from DES-encrypted data without key access
 
@@ -57,10 +58,7 @@ RAG-based app for real-time question answering across multiple PDFs using vector
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" height="35"/>
 </a>
 &nbsp;
-<a href="https://instagram.com/yourhandle">
+<a href="https://www.instagram.com/_suraj.rao_">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35" height="35"/>
 </a>
 &nbsp;
-<a href="https://leetcode.com/yourhandle">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="35" height="35"/>
-</a>
