@@ -57,7 +57,7 @@ RAG-based app for real-time question answering across multiple PDFs using vector
 
 ### 🌐 Connect with Me
 
-<a href="https://linkedin.com/in/yourhandle">
+<a href="https://linkedin.com/in/suraj-g-rao">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" height="35"/>
 </a>
 &nbsp;
