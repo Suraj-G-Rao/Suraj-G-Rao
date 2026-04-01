@@ -1,8 +1,12 @@
-# Hi 👋, I'm Suraj G Rao
+<h1 align="center">Hi 👋, I'm Suraj G Rao</h1>
+<h3 align="center">A passionate ML & Data Science Engineer from Mangalore, India 🇮🇳</h3>
 
-### A passionate ML & Data Science Engineer from Mangalore, India 🇮🇳
-
-📧 [Email](mailto:surajgrao0203@gmail.com) • [LinkedIn](#) • [GitHub](https://github.com/Suraj-G-Rao)
+<p align="center">
+  📧 <a href="mailto:surajgrao0203@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/yourhandle">LinkedIn</a> •
+  <a href="https://github.com/Suraj-G-Rao">GitHub</a> •
+  <a href="https://instagram.com/yourhandle">Instagram</a>
+</p>
 
 ---
 
@@ -24,8 +28,7 @@
 - Deployed a **FastAPI** inference service scoring transactions → ALLOW / CHALLENGE / BLOCK in under 50ms
 
 **Research Intern — NITK Surathkal** *(Dec 2024 – Feb 2025)*
-- Appointed as an intern under the “ISEA Phase-III” focusing on cryptanalysis techniques using neural networks. 
-- Implemented the Data Encryption Standard (DES) algorithm to understand data encryption and decryption processes.
+- Worked on **ISEA Phase-III** cryptanalysis using neural networks
 - Trained a **Bidirectional LSTM** to predict plaintext patterns from DES-encrypted data without key access
 
 ---
@@ -45,13 +48,20 @@ RAG-based app for real-time question answering across multiple PDFs using vector
 
 ### 🛠️ Languages & Tools
 
-[![](https://skillicons.dev/icons?i=python,cpp,java,fastapi,docker,mysql,postgresql,git,github,vscode)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,cpp,java,fastapi,docker,mysql,postgresql,git,github,linux)](https://skillicons.dev)
 
 ---
 
 ### 🌐 Connect with Me
 
 <a href="https://linkedin.com/in/yourhandle">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" height="35"/>
 </a>
-
+&nbsp;
+<a href="https://instagram.com/yourhandle">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35" height="35"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/yourhandle">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="35" height="35"/>
+</a>
