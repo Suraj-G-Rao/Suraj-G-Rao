@@ -54,8 +54,6 @@ RAG-based app for real-time question answering across multiple PDFs using vector
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,postgresql,mongodb,docker,github,git,linux,vscode,postman,spring,flask,streamlit,canva"/>
 <img src="https://cdn.simpleicons.org/mlflow/0194E2" width="45" height="45"/>
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="45" height="45"/>
-<img src="https://img.icons8.com/fluency/48/power-bi.png" width="45" height="45"/>
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-langchain-a-framework-for-developing-applications-powered-by-language-models-logo-color-tal-revivo.png" width="45" height="45"/>
 <img src="https://cdn.simpleicons.org/eclipseide/2C2255" width="45" height="45"/>
 </p>
 
