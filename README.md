@@ -51,8 +51,8 @@ RAG-based app for real-time question answering across multiple PDFs using vector
 
 ### 🛠️ Languages & Tools
 
-[![](https://skillicons.dev/icons?i=python,cpp,c,java,mysql,postgresql,mongodb,docker,github,git,linux,vscode,postman,spring)](https://skillicons.dev)
-<img src="https://cdn.simpleicons.org/mlflow/0194E2" width="45" height="45"/><img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="45" height="45"/><img src="https://img.icons8.com/color/48/power-bi.png" width="45" height="45"/>
+[![](https://skillicons.dev/icons?i=python,cpp,c,java,mysql,postgresql,mongodb,docker,github,git,linux,vscode,postman,spring,flask,streamlit,canva)](https://skillicons.dev)
+<img src="https://cdn.simpleicons.org/mlflow/0194E2" width="45" height="45"/><img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="45" height="45"/><img src="https://img.icons8.com/fluency/48/power-bi.png" width="45" height="45"/><img src="https://img.icons8.com/color/48/spring-security.png" width="45" height="45"/>
 
 ---
 
