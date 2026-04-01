@@ -51,12 +51,11 @@ RAG-based app for real-time question answering across multiple PDFs using vector
 
 ### 🛠️ Languages & Tools
 
-[![](https://skillicons.dev/icons?i=python,cpp,c,java,mysql,postgresql,docker,github,git,linux)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,cpp,c,java,mysql,postgresql,mongodb,docker,github,git,linux,powerbi)](https://skillicons.dev)
 
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![DagsHub](https://img.shields.io/badge/DagsHub-F04D26?style=for-the-badge&logo=dagshub&logoColor=white)
+<img src="https://cdn.simpleicons.org/mlflow/0194E2" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/dagshub/F04D26" width="45" height="45"/>
 
 ---
 
