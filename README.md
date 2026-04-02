@@ -15,7 +15,7 @@
 💻 Skilled in **Python, ML, Deep Learning, and GenAI**<br>
 🚀 Passionate about **building intelligent real-world AI systems**<br>
 📍 Based in **Mangalore, Karnataka**<br>
-🏆 **1st @ NITK Security Bootcamp** · **State winner @ SAP Hackathon 2025**
+🏆 **1st @ NITK Security Bootcamp** · **Top 10 in state level @ SAP Hackathon 2025**
 
 ---
 
@@ -51,7 +51,7 @@ RAG-based app for real-time question answering across multiple PDFs using vector
 
 ### 🛠️ Languages & Tools
 
-<p><img src="https://skillicons.dev/icons?i=python" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=cpp" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=c" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=java" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=mysql" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=postgresql" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=mongodb" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=docker" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=git" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=github" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=linux" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=vscode" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=postman" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=spring" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=flask" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=streamlit" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=canva" width="45"/>&nbsp;<img src="https://cdn.simpleicons.org/mlflow/0194E2" width="45"/>&nbsp;<img src="https://img.icons8.com/color/45/microsoft-excel-2019--v1.png" width="45"/>&nbsp;<img src="https://cdn.simpleicons.org/eclipseide/2C2255" width="45"/></p>
+<p><img src="https://skillicons.dev/icons?i=python" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=cpp" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=c" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=java" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=mysql" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=postgresql" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=mongodb" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=docker" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=git" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=github" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=linux" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=vscode" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=postman" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=spring" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=flask" width="45"/>&nbsp;<img src="https://cdn.simpleicons.org/mlflow/0194E2" width="45"/>&nbsp;<img src="https://img.icons8.com/color/45/microsoft-excel-2019--v1.png" width="45"/>&nbsp;<img src="https://cdn.simpleicons.org/eclipseide/2C2255" width="45"/></p>
 
 ---
 
