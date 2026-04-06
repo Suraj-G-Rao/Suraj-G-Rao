@@ -55,6 +55,19 @@ RAG-based app for real-time question answering across multiple PDFs using vector
 
 ---
 
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Suraj-G-Rao&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Suraj-G-Rao&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-G-Rao&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
 ### 🌐 Connect with Me
 
 <p align="left">
