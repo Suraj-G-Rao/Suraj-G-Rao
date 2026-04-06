@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Suraj G Rao</h1>
 <h3 align="center">A passionate ML & Data Science Engineer from Mangalore, India 🇮🇳</h3>
 <p align="center">
-  📧 <a href="mailto:surajgrao0203@gmail.com">Email</a> •
+  • <a href="mailto:surajgrao0203@gmail.com">Email</a> •
   <a href="https://linkedin.com/in/suraj-g-rao/">LinkedIn</a> •
-  <a href="https://github.com/Suraj-G-Rao">GitHub</a> •
-  <a href="https://www.instagram.com/_suraj.rao_">Instagram</a>
+  <a href="https://www.instagram.com/_suraj.rao_">Instagram</a> •
+  <a href="https://x.com/SurajGRao0203">X</a>
 </p>
 
 ---
@@ -57,11 +57,16 @@ RAG-based app for real-time question answering across multiple PDFs using vector
 
 ### 🌐 Connect with Me
 
+<p align="left">
 <a href="https://linkedin.com/in/suraj-g-rao">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" height="35"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.instagram.com/_suraj.rao_">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35" height="35"/>
+  <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
+<a href="https://x.com/SurajGRao0203">
+  <img src="https://cdn.simpleicons.org/x" width="40"/>
+</a>
+</p>
