@@ -33,22 +33,6 @@
 
 ---
 
-### 🧩 Projects
-
-**🔐 ReachFRM – Fraud Risk Management** *(Python, XGBoost, Isolation Forest, FastAPI)*
-
-Real-time ML scoring engine for banking fraud detection across mobile, ATM, and internet banking channels.
-
-**🛡️ RL-Based Cyber Threat Detection on Edge** *(DQN, NASIM, Neo4j, Groq, Gemini)*
-
-Attack mitigation using Deep Q-Network with a GenAI assistant for Cypher-based threat intelligence queries.
-
-**📄 Multi-Document Q&A System** *(LangChain, FAISS, Groq, Gemini, Streamlit)*
-
-RAG-based app for real-time question answering across multiple PDFs using vector search and LLM chaining.
-
----
-
 ### 🛠️ Languages & Tools
 
 <p><img src="https://skillicons.dev/icons?i=python" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=cpp" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=c" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=java" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=mysql" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=postgresql" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=mongodb" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=docker" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=git" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=github" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=linux" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=vscode" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=postman" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=spring" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=flask" width="45"/>&nbsp;<img src="https://cdn.simpleicons.org/mlflow/0194E2" width="45"/>&nbsp;<img src="https://img.icons8.com/color/45/microsoft-excel-2019--v1.png" width="45"/>&nbsp;<img src="https://cdn.simpleicons.org/eclipseide/2C2255" width="45"/></p>
