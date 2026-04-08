@@ -44,7 +44,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Suraj-G-Rao&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Suraj-G-Rao&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
