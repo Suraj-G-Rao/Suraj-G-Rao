@@ -7,9 +7,14 @@
   <a href="https://x.com/SurajGRao0203">X</a>
 </p>
 
+---
+
 <div align="center">
-  <h3>👀 You are visitor number:</h3>
-  <img src="https://komarev.com/ghpvc/?username=Suraj-G-Rao&style=for-the-badge&color=blue" />
+
+### ✨ Visitors Count ✨
+
+<img src="https://komarev.com/ghpvc/?username=Suraj-G-Rao&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge" />
+
 </div>
 
 ---
