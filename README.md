@@ -9,16 +9,6 @@
 
 ---
 
-<div align="center">
-
-### ✨ Visitors Count ✨
-
-<img src="https://komarev.com/ghpvc/?username=Suraj-G-Rao&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge" />
-
-</div>
-
----
-
 
 ### 🧠 About Me
 
@@ -50,25 +40,35 @@
 
 ---
 
-### 📊 GitHub Stats
 
+<h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Suraj-G-Rao&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
-### 🌐 Connect with Me
 
-<p align="left">
-<a href="https://linkedin.com/in/suraj-g-rao">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/_suraj.rao_">
-  <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://x.com/SurajGRao0203">
-  <img src="https://cdn.simpleicons.org/x" width="40"/>
-</a>
+<div align="center">
+
+### ✨ Visitors Count ✨
+
+<img src="https://komarev.com/ghpvc/?username=Suraj-G-Rao&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge" width="250" />
+
+</div>
+
+---
+<h3 align="center">🌐 Connect with Me</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/suraj-g-rao">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/_suraj.rao_">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/SurajGRao0203">
+    <img src="https://cdn.simpleicons.org/x" width="40"/>
+  </a>
 </p>
