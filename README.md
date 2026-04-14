@@ -7,7 +7,13 @@
   <a href="https://x.com/SurajGRao0203">X</a>
 </p>
 
+<div align="center">
+  <h3>👀 You are visitor number:</h3>
+  <img src="https://komarev.com/ghpvc/?username=Suraj-G-Rao&style=for-the-badge&color=blue" />
+</div>
+
 ---
+
 
 ### 🧠 About Me
 
@@ -36,13 +42,6 @@
 ### 🛠️ Languages & Tools
 
 <p><img src="https://skillicons.dev/icons?i=python" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=cpp" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=c" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=java" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=mysql" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=postgresql" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=mongodb" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=docker" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=git" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=github" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=linux" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=vscode" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=postman" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=spring" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=flask" width="45"/>&nbsp;<img src="https://cdn.simpleicons.org/mlflow/0194E2" width="45"/>&nbsp;<img src="https://img.icons8.com/color/45/microsoft-excel-2019--v1.png" width="45"/>&nbsp;<img src="https://cdn.simpleicons.org/eclipseide/2C2255" width="45"/></p>
-
----
-
-<div align="center">
-  <h3>👀 You are visitor number:</h3>
-  <img src="https://komarev.com/ghpvc/?username=Suraj-G-Rao&style=for-the-badge&color=blue" />
-</div>
 
 ---
 
