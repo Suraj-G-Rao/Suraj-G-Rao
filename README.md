@@ -7,6 +7,10 @@
   <a href="https://x.com/SurajGRao0203">X</a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4483BE&center=true&vCenter=true&width=700&lines=Software+Engineering+Intern+%40+Lcode+Technologies;Former+Research+Intern+%40+NITK+Surathkal;Generative+AI+%7C+Deep+Learning+%7C+MCP;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
+
 ---
 
 
