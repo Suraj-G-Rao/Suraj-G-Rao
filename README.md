@@ -47,6 +47,12 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Suraj-G-Rao&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  &nbsp;
+  &nbsp;
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Suraj-G-Rao&theme=tokyonight&hide_border=true" />
+</p>
 
 
 ---
