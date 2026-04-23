@@ -20,7 +20,7 @@
 💻 Skilled in **Python, ML, Deep Learning, and GenAI**<br>
 🚀 Passionate about **building intelligent real-world AI systems**<br>
 📍 Based in **Mangalore, Karnataka**<br>
-🏆 **1st @ NITK Security Bootcamp** · 
+🏆 **1st @ NITK Security Bootcamp** 
 
 ---
 
