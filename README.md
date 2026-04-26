@@ -46,10 +46,12 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img width="45%" style="border: 2px solid #70a5fd; border-radius: 10px;" src="https://github-readme-stats.vercel.app/api?username=Suraj-G-Rao&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&border_color=70a5fd" />
+  <img width="45%" style="border: 2px solid #70a5fd; border-radius: 10px;" 
+  src="https://github-readme-stats.vercel.app/api?username=Suraj-G-Rao&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&border_color=70a5fd&cache_seconds=43200" />
   &nbsp;
   &nbsp;
-  <img width="48%" style="border: 2px solid #70a5fd; border-radius: 10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=Suraj-G-Rao&theme=tokyonight&hide_border=false&border=70a5fd" />
+  <img width="48%" style="border: 2px solid #70a5fd; border-radius: 10px;" 
+  src="https://streak-stats.demolab.com?user=Suraj-G-Rao&theme=tokyonight&hide_border=false&border=70a5fd&cache_seconds=43200" />
 </p>
 
 ---
