@@ -4,7 +4,7 @@
   • <a href="https://suraj-g-rao.vercel.app/">Portfolio</a> •
   <a href="mailto:surajgrao0203@gmail.com">Email</a> •
   <a href="https://linkedin.com/in/suraj-g-rao/">LinkedIn</a> •
-  <a href="https://www.instagram.com/_suraj.rao_">Instagram</a> 
+  <a href="https://www.instagram.com/_suraj.rao_">Instagram</a>  •
   <a href="https://x.com/SurajGRao0203">X</a>
 </p>
 
