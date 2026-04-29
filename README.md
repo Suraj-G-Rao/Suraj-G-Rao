@@ -17,7 +17,7 @@
 
 ### 🧠 About Me
 
-🎓 B.E student at **NIE Mysuru** (CGPA: 9.46/10)<br>
+🎓 B.E student at **NIE Mysuru** (CGPA: 9.42/10)<br>
 💻 Skilled in **Python, ML, Deep Learning, and GenAI**<br>
 🚀 Passionate about **building intelligent real-world AI systems**<br>
 📍 Based in **Mangalore, Karnataka**<br>
