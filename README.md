@@ -56,7 +56,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Suraj-G-Rao&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=35&margin-h=35" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Suraj-G-Rao&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=30&margin-h=30" />
 </p>
 
 ---
