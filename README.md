@@ -45,7 +45,7 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h4 align="center">📊 GitHub Stats</h4>
 
 <p align="center">
   <img width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=Suraj-G-Rao&theme=tokyonight&hide_border=true" />
