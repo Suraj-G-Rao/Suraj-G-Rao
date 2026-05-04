@@ -48,9 +48,9 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Suraj-G-Rao&theme=tokyonight&hide_border=true" />
-  &nbsp;&nbsp;
-  <img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Suraj-G-Rao&theme=tokyonight" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Suraj-G-Rao&theme=tokyonight&hide_border=true" />
+  &nbsp;&nbsp;&nbsp;
+  <img width="34%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Suraj-G-Rao&theme=tokyonight" />
 </p>
 
 <br>
