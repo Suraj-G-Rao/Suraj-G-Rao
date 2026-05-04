@@ -46,13 +46,17 @@
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
+
 <p align="center">
-  <img width="45%" style="border: 2px solid #70a5fd; border-radius: 10px;" 
-  src="https://github-readme-stats.vercel.app/api?username=Suraj-G-Rao&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&border_color=70a5fd&cache_seconds=43200" />
-  &nbsp;
-  &nbsp;
-  <img width="48%" style="border: 2px solid #70a5fd; border-radius: 10px;" 
-  src="https://streak-stats.demolab.com?user=Suraj-G-Rao&theme=tokyonight&hide_border=false&border=70a5fd&cache_seconds=43200" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Suraj-G-Rao&theme=tokyonight&hide_border=true" />
+  &nbsp;&nbsp;
+  <img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Suraj-G-Rao&theme=tokyonight" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Suraj-G-Rao&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=35&margin-h=35" />
 </p>
 
 ---
