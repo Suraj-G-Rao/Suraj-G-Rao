@@ -50,7 +50,7 @@
 <p align="center">
   <img width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=Suraj-G-Rao&theme=tokyonight&hide_border=true" />
   &nbsp;&nbsp;&nbsp;
-  <img width="36%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Suraj-G-Rao&theme=tokyonight" />
+  <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Suraj-G-Rao&theme=tokyonight" />
 </p>
 
 <br>
