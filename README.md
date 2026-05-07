@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Suraj G Rao</h1>
 <h3 align="center">A passionate ML & Data Science Engineer from Bangalore, India 🇮🇳</h3>
 <p align="center">
-  • <a href="mailto:surajgrao0203@gmail.com">Email</a> •
+  • <a href="https://suraj-g-rao.vercel.app/">Portfolio</a> •
+  <a href="mailto:surajgrao0203@gmail.com">Email</a> •
   <a href="https://linkedin.com/in/suraj-g-rao/">LinkedIn</a> •
-  <a href="https://www.instagram.com/_suraj.rao_">Instagram</a> •
+  <a href="https://www.instagram.com/_suraj.rao_">Instagram</a>  •
   <a href="https://x.com/SurajGRao0203">X</a>
 </p>
 
@@ -16,11 +17,11 @@
 
 ### 🧠 About Me
 
-🎓 B.E student at **NIE Mysuru** (CGPA: 9.46/10)<br>
+🎓 B.E student at **NIE Mysuru** (CGPA: 9.42/10)<br>
 💻 Skilled in **Python, ML, Deep Learning, and GenAI**<br>
 🚀 Passionate about **building intelligent real-world AI systems**<br>
 📍 Based in **Mangalore, Karnataka**<br>
-🏆 **1st @ NITK Security Bootcamp** · 
+🏆 **1st @ NITK Security Bootcamp** 
 
 ---
 
@@ -44,16 +45,19 @@
 
 ---
 
-
-<h3 align="center">📊 GitHub Stats</h3>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Suraj-G-Rao&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  &nbsp;
-  &nbsp;
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Suraj-G-Rao&theme=tokyonight&hide_border=true" />
+  <img width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=Suraj-G-Rao&theme=tokyonight&hide_border=true" />
+  &nbsp;&nbsp;&nbsp;
+  <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Suraj-G-Rao&theme=tokyonight" />
 </p>
 
+<br>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Suraj-G-Rao&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=28&margin-h=28" />
+</p>
 
 ---
 
@@ -66,6 +70,7 @@
 </div>
 
 ---
+
 <h3 align="center">🌐 Connect with Me</h3>
 
 <p align="center">
